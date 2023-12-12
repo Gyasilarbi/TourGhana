@@ -262,35 +262,6 @@
             </div>
         </section><!-- End Our Services Section -->
 
-        <!-- ======= Popular Destinations ====== -->
-
-        <section class="popularDestination">
-            <div class="container">
-
-                <div class="text-center">
-                    <h3><strong>Popular Destinations</strong></h3>
-                </div>
-
-                <div class="row">
-                    <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                        <div class="pop1">
-                            <h4 class="title">Walk through the shakles of our ancestors and the Gate of No Return at the <strong>Cape Coast Castle</strong></h4>
-                        </div>
-                        
-                    </div>
-                    <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                        
-                    </div>
-                    <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                        
-                    </div>
-                    <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-                        
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <!-- ======= Cta Section ======= -->
         <section class="cta">
             <div class="container">
