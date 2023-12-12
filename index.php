@@ -25,7 +25,7 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -274,7 +274,7 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="pop1">
-                            
+                            <h4 class="title">Walk through the shakles of our ancestors and the Gate of No Return at the <strong>Cape Coast Castle</strong></h4>
                         </div>
                         
                     </div>
