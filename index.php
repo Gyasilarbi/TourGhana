@@ -142,6 +142,7 @@
 
                 <div class="row">
                     <div class="col-lg-6">
+                        <div class="bucket"></div>
                         <img src="Photos/Image24.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 content">
@@ -226,16 +227,16 @@
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box">
                             <div class="icon"><i class="bi bi-airplane-engines"></i></div>
-                            <h4 class="title"><a href="">Customized Tours</a></h4>
+                            <h4 class="title"><a href="services/tour.php">Customized Tours</a></h4>
                             <p class="description">Tailored itineraries based on the interests and preferences of the tourists. <br>
-                                Cultural, historical, wildlife, or adventure tours designed to showcase Ghana's diversity.</p>
+                                Cultural, historical, wildlife, or adventure tours designed to showcase Ghana's diversity.</p>    
                         </div>
                     </div>
 
                     <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
                         <div class="icon-box">
                             <div class="icon"><i class="bi bi-house"></i></div>
-                            <h4 class="title"><a href="">Accommodation Booking</a></h4>
+                            <h4 class="title"><a href="/services/tour.php">Accommodation Booking</a></h4>
                             <p class="description">Assistance in booking hotels, resorts, lodges, or guesthouses based on budget and preferences. <br>Guidance on local markets, handicrafts, and unique shopping experiences. <br> Emergency assistance and a helpline for travelers.</p>
                         </div>
                     </div>
