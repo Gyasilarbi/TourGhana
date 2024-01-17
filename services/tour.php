@@ -38,7 +38,7 @@
         
                 <h1 class="text-light"><a href="index.html"><span></span></a></h1> -->
                 <!-- Uncomment below if you prefer to use an image logo -->
-                <a href="../index.php"><img src="Photos/Image_34-removebg-preview.png" alt="" class="img-fluid"></a>
+                <a href="../index.php"><img src="../Photos/Image_34-removebg-preview.png" alt="" class="img-fluid"></a>
             </div>
 
             <nav id="navbar" class="navbar">
@@ -71,16 +71,12 @@
     <main id="main">
         <section id="services" class="services">
             <div class="container-fluid" id="trips">
+                <div class="section-title">
+                    <h2><strong>Services</strong></h2>
+                </div>
                 <div class="row" style="margin: 10px;">
-                    <div class="col-sm-3 day">
-                        <img src="../Photos/Image26.jpg" alt="">
-                        <h4>Day Trips</h4>
-                    </div>
-                    <div class="col-sm-5 multi">
-                        <h4>Multi-Days Trips</h4>
-                    </div>
-                    <div class="col-sm-3 cust">
-                        <h4>Customized Trips</h4>
+                    <div class="gallery">
+                        <p>ksndj</p>
                     </div>
                 </div>
             </div>
