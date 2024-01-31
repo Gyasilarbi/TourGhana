@@ -26,7 +26,9 @@
 
     <!-- Template Main CSS File -->
     <link href="../assets/css/styles.css" rel="stylesheet">
-    <link rel="stylesheet" href="services.css">
+    <link rel="stylesheet" href="service.css">
+
+    
 </head>
 
 <body>
@@ -71,12 +73,17 @@
     <main id="main">
         <section id="services" class="services">
             <div class="container-fluid" id="trips">
-                <div class="section-title">
-                    <h2><strong>Services</strong></h2>
-                </div>
-                <div class="row" style="margin: 10px;">
-                    <div class="gallery">
-                        <p>ksndj</p>
+                <div class="sec1 container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <img src="../Photos/4.jpg" width="700px" height="400px">
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="section-title">
+                                <h2>Visit Ghana</h2>
+                            </div>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis accusamus, nemo necessitatibus consequuntur adipisci ratione repellat pariatur error fugit quibusdam quod expedita et corrupti maxime saepe nam veritatis dolor recusandae?</p>
+                        </div>
                     </div>
                 </div>
             </div>

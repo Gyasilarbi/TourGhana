@@ -1,7 +1,0 @@
-.gallery{
-    width: 800px;
-    height: 400px;
-    background-image:linear-gradient(rgba(0,0,0,)) url(Photos/Image7.jpg);
-    background-size: cover;
-    background-position: center;
-}
